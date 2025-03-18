@@ -5,7 +5,8 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 python:3.9.19
-python:3.12.4
+python:3.10
 mysql:8.0.38
+mysql:8.4.4
 redis:latest
 rabbitmq:3.13.3-management
